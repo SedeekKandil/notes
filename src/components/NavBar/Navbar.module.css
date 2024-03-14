@@ -1,0 +1,11 @@
+.div{
+    width: 15%;
+    background-color: white;
+    min-height: 100vh;
+    
+}
+
+.nav-bt{
+    width: 90% !important;
+    margin: auto;
+}
